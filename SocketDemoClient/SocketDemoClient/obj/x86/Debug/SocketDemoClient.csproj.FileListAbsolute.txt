@@ -1,0 +1,4 @@
+E:\MyAsp.netProgram\SocketDemoClient\SocketDemoClient\bin\Debug\SocketDemoClient.exe
+E:\MyAsp.netProgram\SocketDemoClient\SocketDemoClient\bin\Debug\SocketDemoClient.pdb
+E:\MyAsp.netProgram\SocketDemoClient\SocketDemoClient\obj\x86\Debug\SocketDemoClient.exe
+E:\MyAsp.netProgram\SocketDemoClient\SocketDemoClient\obj\x86\Debug\SocketDemoClient.pdb
